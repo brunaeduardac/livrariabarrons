@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "senha123@",
+    "database": "barrons_library",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "senha123@",
+    "database": "barrons_library",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "senha123@",
+    "database": "barrons_library",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
